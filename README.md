@@ -44,22 +44,14 @@ Last updated: June 2026
 
 
 
-## 2.作者姓名消歧，去噪
-#### input文件：arxiv_clean.csv
-#### 运行文件：name_disambig.py
-#### output文件：disambig_clean.csv
+## 2.性别分析
+#### input文件：authors_clean.csv
+#### 运行文件：name_gender_identification.py
+#### output文件： gender_cache.csv
 
-逐篇论文，从 authors_parsed 字段取出每个作者的 last name 和 first name，从 categories 字段取学科大类作为 subject。把三者拼成 (subject, last, first) 三元组，作为唯一作者键。同一个人若跨学科发文会被拆成多个键。把每个作者键对应的论文 ID 聚合起来。
+取出去重后的23,731个名字，分批到genderize API，每个名字存回 name，gender，probability，count，并做了一个断点续传。
 
-在聚合好的作者条目上依次删除三类噪声（删除数为去重后的作者条目数）
 
-| # | 去噪内容 | 去除掉的数据量 |
-|---|---|---|
-| 1 | last name只含有一个字母 | 2250 |
-| 2 | 数字/标点开头 | 1145 |
-| 3 | 名字带有合作组（last或first含任一合作组关键词判为合作组） | 1749 |
-
-去噪后，最终保留1,699,920
 
 ---
 
