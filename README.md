@@ -66,7 +66,7 @@ Last updated: June 2026
 
 
 ## 3.连接作者与性别分析结果
-把性别结果贴回每个作者,通过左连接进行。
+把性别结果贴回每个作者,通过左连接进行。性别没有判断出来的就写unknown.
 
 #### input文件：authors_clean.csv，gender_cache.csv'
 #### 运行文件：sample gender_match.py
