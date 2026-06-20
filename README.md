@@ -65,13 +65,14 @@ Last updated: June 2026
 ---
 
 
-## 3.人类语料抽样
-SM2.1: randomly selecting 2,000 papers each month from January 2022 to October 2022,used the original abstracts to estimate the token distribution of human-written text
-#### input文件：arxiv_clean.csv
-#### 运行文件：sample human corpus.py
-#### output文件：human_corpus.csv  
+## 3.连接作者与性别分析结果
+把性别结果贴回每个作者,通过左连接进行。
 
-从 arxiv_clean.csv 中筛选发表月份在 2022-01 至 2022-10 的论文，按月份分组，每个月用固定随机种子随机抽取 2,000 篇，共 10 个月一共20000篇。取每篇的原始 abstract 字段作为人类写作的真实样本，写入 human_corpus.csv。
+#### input文件：authors_clean.csv，gender_cache.csv'
+#### 运行文件：sample gender_match.py
+#### output文件：authors_gender.csv' 
+
+<img width="505" height="144" alt="image" src="https://github.com/user-attachments/assets/415cbed4-11b8-415e-85b1-7206be66130f" />
 
 ---
 
