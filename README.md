@@ -70,9 +70,10 @@ Last updated: June 2026
 
 #### input文件：authors_clean.csv，gender_cache.csv'
 #### 运行文件：sample gender_match.py
-#### output文件：authors_gender.csv' 
+#### output文件：authors_gender.csv
 
-<img width="505" height="144" alt="image" src="https://github.com/user-attachments/assets/415cbed4-11b8-415e-85b1-7206be66130f" />
+<img width="522" height="93" alt="image" src="https://github.com/user-attachments/assets/629887af-b49b-4210-ba72-5030bdc78305" />
+
 
 ---
 
