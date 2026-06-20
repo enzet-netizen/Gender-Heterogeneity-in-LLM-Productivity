@@ -14,7 +14,7 @@ Last updated: June 2026
 
 #### input文件：panel.csv
 #### 运行文件：author_clean.py
-#### output文件：authors_clean.csv，保留作者一共110686个，去重之后一共22064个作者
+#### output文件：authors_clean.csv，保留作者一共110,286个，去重之后一共22,064个作者
 
 
 | 数据 | 本次实验 | 论文 |
