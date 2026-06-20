@@ -51,6 +51,7 @@ Last updated: June 2026
 
 取出去重后的23,731个名字，分批到genderize API，每个名字存回 name，gender，probability，count，并做了一个断点续传。
 无法查到性别（返回none）：2009，占8.5%
+
 按照count：
 
 <img width="230" height="103" alt="image" src="https://github.com/user-attachments/assets/45812852-18e2-46a3-82d0-ac63e695b1d1" />
