@@ -35,9 +35,11 @@ Last updated: June 2026
 <img width="147" height="151" alt="image" src="https://github.com/user-attachments/assets/d1c2b3d5-21f5-48c2-a4ad-f53679ad2885" />
 
 保留数据
+
 <img width="384" height="183" alt="image" src="https://github.com/user-attachments/assets/c10da53d-9f13-43e0-9a59-d156a374d572" />
 
 删除数据
+
 <img width="254" height="76" alt="image" src="https://github.com/user-attachments/assets/0ba44cc9-f9c3-455f-9468-b8b45cd31ccc" />
 
 
