@@ -50,7 +50,7 @@ Last updated: June 2026
 #### output文件： gender_cache.csv
 
 取出去重后的23,731个名字，分批到genderize API，每个名字存回 name，gender，probability，count，并做了一个断点续传。
-无法查到性别（返回none）：2009，占8.5%
+无法查到性别（返回none）：2009，占8.5%.
 
 按照count：
 
