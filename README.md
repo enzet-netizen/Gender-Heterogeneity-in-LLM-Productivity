@@ -124,7 +124,7 @@ Last updated: June 2026
 ## 6.生图
 #### input文件：gender_coefficients
 #### 运行文件：gender_plot.py
-#### output文件：fig_gender_productivity.pdf
+<img width="495" height="501" alt="image" src="https://github.com/user-attachments/assets/b65cd48e-f231-4aba-8760-1a6111e05384" />
 
 <img width="1475" height="870" alt="image" src="https://github.com/user-attachments/assets/606dd62b-012c-493f-95e8-57874016087a" />
 
