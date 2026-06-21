@@ -69,7 +69,7 @@ Last updated: June 2026
 把性别结果贴回每个作者,通过左连接进行。性别没有判断出来的就写unknown.
 
 #### input文件：authors_clean.csv，gender_cache.csv'
-#### 运行文件：sample gender_match.py
+#### 运行文件：gender_match.py
 #### output文件：authors_gender.csv
 
 <img width="522" height="93" alt="image" src="https://github.com/user-attachments/assets/629887af-b49b-4210-ba72-5030bdc78305" />
@@ -79,10 +79,6 @@ Last updated: June 2026
 
 
 ## 4.构建panel
-
-#### panel文件：panel.csv
-#### 运行文件：build_panel.py
-#### output文件：panel.csv
 
 <img width="897" height="94" alt="image" src="https://github.com/user-attachments/assets/1feb3055-f50e-4e50-86bd-ea668797f892" />
 
