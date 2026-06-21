@@ -86,6 +86,9 @@ Last updated: June 2026
 
 <img width="897" height="94" alt="image" src="https://github.com/user-attachments/assets/1feb3055-f50e-4e50-86bd-ea668797f892" />
 
+<img width="568" height="88" alt="image" src="https://github.com/user-attachments/assets/7e0433ee-5462-49dd-8d16-bd27f5b67c21" />
+
+
 
 作者email:
 "Active periods: see S2.3 “For each author, we track the number of preprints they posted each month,” so the panel is not conditioned on active publication periods.
