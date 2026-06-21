@@ -80,7 +80,7 @@ Last updated: June 2026
 
 ## 4.构建panel
 
-#### input文件：disambig_clean.csv, alpha_scores.csv, arxiv_clean.csv
+#### panel文件：panel.csv
 #### 运行文件：build_panel.py
 #### output文件：panel.csv
 
