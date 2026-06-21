@@ -96,7 +96,8 @@ Last updated: June 2026
 
 <img width="409" height="33" alt="image" src="https://github.com/user-attachments/assets/3ce56874-72f2-410a-a2b4-39c75fd9a046" />
 
-<img width="633" height="55" alt="image" src="https://github.com/user-attachments/assets/790d75a1-65ce-41ee-a4ae-8ae79595a854" />
+<img width="633" height="55" alt="image" src="https://github.com/user-attachments/assets/790d75a1-65ce-41ee-a4ae-8ae79595a854" />.
+
 
 <img width="184" height="18" alt="image" src="https://github.com/user-attachments/assets/da4f417c-78e3-4495-b089-2109b16b506c" />
 
