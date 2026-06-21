@@ -88,25 +88,22 @@ Last updated: June 2026
 
 <img width="568" height="88" alt="image" src="https://github.com/user-attachments/assets/7e0433ee-5462-49dd-8d16-bd27f5b67c21" />
 
+#### input文件：panel.csv,authors_gender.csv
+#### 运行文件：panel_gender.py
+#### output文件：panel_gender.csv
+
+代码里面，只取两列，hashed_authro和gender，把性别接到panel上，panel添加gender_final列，去掉unknown的人，然后根据公式造post变量
+
+<img width="409" height="33" alt="image" src="https://github.com/user-attachments/assets/3ce56874-72f2-410a-a2b4-39c75fd9a046" />
+
+<img width="633" height="55" alt="image" src="https://github.com/user-attachments/assets/790d75a1-65ce-41ee-a4ae-8ae79595a854" />
+
+<img width="184" height="18" alt="image" src="https://github.com/user-attachments/assets/da4f417c-78e3-4495-b089-2109b16b506c" />
 
 
-作者email:
-"Active periods: see S2.3 “For each author, we track the number of preprints they posted each month,” so the panel is not conditioned on active publication periods.
-Control construction: see S2.4 “Each author in this group is assigned a unique event time,” so control observations are not reused.
-Hope this clarifies the design. We’re also aware of other groups that have independently replicated the pattern without clear pre-trends, following the paper and SM."
 
 
-| # | 实现 | 原文 |
-|---|---|---|
-| 1 | incumbent = 2018-01~2021-12 发文 ≥4 篇 | S2.3 "researchers with at least 4 works published between 2018 and 2021" |
-| 2 | 观测窗 2022-01~2024-06，零产出月记 0 保留 | S2.3 "the number of preprints they posted each month during a 30-month period (Jan 2022 - June 2024) |
-| 3 | treated = 第一篇 is_llm 论文的月份 | S2.4 "treatment time as the author's first month of LLM adoption" |
-| 4 | control = incumbents − ever_llm | S2.4 "never-treated authors–those with no LLM-assisted publications as of June 2024" |
-| 5 | placebo 在 2023-01~2024-06 均匀随机，seed=42 | S2.4 "assigned a unique event time, randomly drawn between January 2023 and June 2024" |
-| 6 | 事件窗 −12~+18，排除 τ=0，参照期 τ=−1 | 3.1 "we exclude the month of treatment"、"D^k for k ≥ −1 |
-| 7 | control 只进 stack 一次 | 作者email回信 |
 
----
 
 
 ## 8.生图
