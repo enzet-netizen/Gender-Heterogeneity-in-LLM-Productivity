@@ -118,6 +118,8 @@ Last updated: June 2026
 
 <img width="225" height="74" alt="image" src="https://github.com/user-attachments/assets/b9fe7ea3-30b8-4461-8cfa-587644f70173" />
 
+进回归的数据：male:75066, female:15854
+
 
 
 
