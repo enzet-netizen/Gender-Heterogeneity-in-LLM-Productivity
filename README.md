@@ -125,7 +125,7 @@ Last updated: June 2026
 #### input文件：gender_coefficients
 #### 运行文件：gender_plot.py
 
-Overall 39.3%，Male 38.6%，Female 42.8%
+Overall 39.3%，Male 38.6%，置信区间36.3%-40.9%，Female 42.8%，置信区间37.7%-48%
 <img width="495" height="501" alt="image" src="https://github.com/user-attachments/assets/b65cd48e-f231-4aba-8760-1a6111e05384" />
 
 
