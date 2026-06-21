@@ -99,6 +99,9 @@ Last updated: June 2026
 
 <img width="916" height="230" alt="image" src="https://github.com/user-attachments/assets/2d6072b1-31e2-4e23-88b3-3b9b2b05bc28" />
 
+<img width="159" height="52" alt="image" src="https://github.com/user-attachments/assets/7dba7e90-141d-43f4-9305-57481702188b" />
+
+
 ## 5.回归
 
 #### input文件：panel_gender.csv
