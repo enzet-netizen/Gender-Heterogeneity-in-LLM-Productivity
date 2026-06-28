@@ -50,15 +50,25 @@ Last updated: June 2026
 取出去重后的23,731个名字，分批到genderize API，每个名字存回 name，gender，probability，count，并做了一个断点续传。
 无法查到性别（返回none）：2009，占8.5%.
 
-按照count：
-
-<img width="230" height="103" alt="image" src="https://github.com/user-attachments/assets/45812852-18e2-46a3-82d0-ac63e695b1d1" />
-
-按照probablity:
-
-<img width="218" height="77" alt="image" src="https://github.com/user-attachments/assets/3d7aded2-91c7-4f69-9665-8b8f1c2594c0" />
-
 补回的8969个作者名字中，去重后的名字一共3598个，其中2610个名字已经在原有的查询之中，新增添的名字一个988个。
+
+性别分布：
+<img width="142" height="43" alt="image" src="https://github.com/user-attachments/assets/388fb3dc-66a8-4475-ad15-d17f45b4b58e" />。
+
+probability：
+<img width="249" height="92" alt="image" src="https://github.com/user-attachments/assets/130d2653-c4e8-4cdb-845e-c2d56162846b" />。
+
+count：
+
+<img width="262" height="110" alt="image" src="https://github.com/user-attachments/assets/79a20188-9a42-4ec7-acae-25971e0862c8" />。
+
+<img width="261" height="137" alt="image" src="https://github.com/user-attachments/assets/59708c6d-3be5-41ce-bd95-4c8688ee5887" />。
+
+
+
+
+
+
 
 
 ---
