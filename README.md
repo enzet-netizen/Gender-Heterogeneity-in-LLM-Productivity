@@ -54,7 +54,8 @@ Last updated: June 2026
 
 加上新的性别分布，一共有24719个不同的名字。数据共138568条。
 
-性别分布：
+性别分布：。
+
 <img width="142" height="43" alt="image" src="https://github.com/user-attachments/assets/388fb3dc-66a8-4475-ad15-d17f45b4b58e" />。
 
 probability：。
