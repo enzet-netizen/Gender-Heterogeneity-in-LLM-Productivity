@@ -7,6 +7,7 @@ Scientific production in the era of large language models.
 *Science*, 390, 1240. https://doi.org/10.1126/science.adw3000
 
 Last updated: June 2026
+<img width="813" height="82" alt="image" src="https://github.com/user-attachments/assets/3273521b-62f5-49d9-bae4-821e0c5111c2" />
 
 ---
 
