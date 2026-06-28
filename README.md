@@ -20,8 +20,7 @@ Last updated: June 2026
 清除数据：
 | 筛选条件 | 数据量 |
 | ---- | ---- |
-| 单字符 | 82  |
-| 缩写 | 62,915   |
+| 缩写 | 62,997   |
 | 空值 | 116  |
 
 保留数据：135，528条
@@ -37,7 +36,8 @@ Last updated: June 2026
 
 <img width="254" height="76" alt="image" src="https://github.com/user-attachments/assets/0ba44cc9-f9c3-455f-9468-b8b45cd31ccc" />
 
-
+--june 22nd update--
+对于因为initial导致removed的作者，我们在通过openalex数据库爬虫，查找全名。基于被removed的作者的，一共有62,997是因为initial被remove的，我们先把每个缩写作者，连接disambig_clean.csv接上他写过的一篇论文的arxiv_id（取第一篇），并且再基于arxiv_clean.csv（因为有arxiv_id 和 doi 两列）查论文的doi，然后再调用API，在openAlex里查全名。
 
 ## 2.性别分析
 #### input文件：authors_clean.csv
