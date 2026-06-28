@@ -148,6 +148,17 @@ male      114296
 #### input文件：gender_coefficients
 #### 运行文件：gender_plot.py
 
+<img width="1476" height="879" alt="image" src="https://github.com/user-attachments/assets/4180e258-cc33-496a-bef8-692c0f60337e" />
+
+<img width="992" height="645" alt="image" src="https://github.com/user-attachments/assets/036b7eba-ac2b-4195-9c95-a1d88639494d" />
+
+<img width="989" height="528" alt="image" src="https://github.com/user-attachments/assets/07dd7b13-9a1d-4433-9c62-0232845fc121" />
+
+<img width="994" height="530" alt="image" src="https://github.com/user-attachments/assets/3f7a64a2-0cf3-4114-92bd-12f6a2de32a5" />
+
+
+
+
 Overall 39.3%，Male 38.6%，置信区间36.3%-40.9%，Female 42.8%，置信区间37.7%-48%
 <img width="495" height="501" alt="image" src="https://github.com/user-attachments/assets/b65cd48e-f231-4aba-8760-1a6111e05384" />
 
