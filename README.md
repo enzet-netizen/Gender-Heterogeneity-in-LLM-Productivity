@@ -40,7 +40,7 @@ Last updated: June 2026
 
 对于因为initial导致removed的作者，我们在通过openalex数据库爬虫，查找全名。基于被removed的作者的，一共有62,997是因为initial被remove的，我们先把每个缩写作者，连接disambig_clean.csv接上他写过的一篇论文的arxiv_id（取第一篇），并且再基于arxiv_clean.csv（因为有arxiv_id 和 doi 两列）查论文的doi，然后再调用API，在openAlex里查全名。
 
-作者总数: 62,997, 有doi的: 52,720 (83.7%),补回名字7,300 (14.4%)，另外1953条的doi在open Alex里面没有记录。另外45481在Crossref中进行查找，补回1730条(3.8%)，总共补回9030条。
+作者总数: 62,997, 有doi的: 52,720 (83.7%),补回名字7,300 (14.4%)，另外1953条的doi在open Alex里面没有记录。另外45481在Crossref中进行查找，补回1730条(3.8%)，总共补回9030条。最后总和，补回8969条，
 
 ## 2.性别分析
 #### input文件：authors_clean.csv
