@@ -57,7 +57,8 @@ Last updated: June 2026
 性别分布：
 <img width="142" height="43" alt="image" src="https://github.com/user-attachments/assets/388fb3dc-66a8-4475-ad15-d17f45b4b58e" />。
 
-probability：
+probability：。
+
 <img width="249" height="92" alt="image" src="https://github.com/user-attachments/assets/130d2653-c4e8-4cdb-845e-c2d56162846b" />。
 
 count：
