@@ -52,6 +52,8 @@ Last updated: June 2026
 
 补回的8969个作者名字中，去重后的名字一共3598个，其中2610个名字已经在原有的查询之中，新增添的名字一个988个。
 
+加上新的性别分布，一共有24719个名字。
+
 性别分布：
 <img width="142" height="43" alt="image" src="https://github.com/user-attachments/assets/388fb3dc-66a8-4475-ad15-d17f45b4b58e" />。
 
