@@ -90,7 +90,6 @@ count：
 
 接回panel：
 接回panel后作者数（按性别）:
-gender_final
 female     24272
 male      114296
 
