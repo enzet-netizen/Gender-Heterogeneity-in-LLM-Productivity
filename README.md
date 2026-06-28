@@ -93,9 +93,9 @@ count：
 <img width="522" height="93" alt="image" src="https://github.com/user-attachments/assets/629887af-b49b-4210-ba72-5030bdc78305" />
 
 接回panel：
-接回panel后作者数（按性别）:
 female     24272
-male      114296，无法查到性别的：4280，总计142848
+male      114296，
+无法查到性别的：4280，总计142848
 
 ---
 
