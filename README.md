@@ -58,6 +58,7 @@ Last updated: June 2026
 
 <img width="218" height="77" alt="image" src="https://github.com/user-attachments/assets/3d7aded2-91c7-4f69-9665-8b8f1c2594c0" />
 
+补回的8969个作者名字中，去重后的名字一共3598个，其中2610个名字已经在原有的查询之中，新增添的名字一个988个。
 
 
 ---
