@@ -112,16 +112,15 @@ male      114296，
 
 代码里面，只取两列，hashed_authro和gender，把性别接到panel上，panel添加gender_final列，去掉unknown的人，然后根据公式造post变量
 
-<img width="409" height="33" alt="image" src="https://github.com/user-attachments/assets/3ce56874-72f2-410a-a2b4-39c75fd9a046" />
+<img width="135" height="43" alt="image" src="https://github.com/user-attachments/assets/04699e94-82f4-48a4-95b6-c80117d77973" />。
 
-<img width="633" height="55" alt="image" src="https://github.com/user-attachments/assets/790d75a1-65ce-41ee-a4ae-8ae79595a854" />.
+按行计：
+
+<img width="130" height="40" alt="image" src="https://github.com/user-attachments/assets/77129b9e-8390-4ac2-97b0-dc3c4d70806d" />
 
 
-<img width="184" height="18" alt="image" src="https://github.com/user-attachments/assets/da4f417c-78e3-4495-b089-2109b16b506c" />
 
-<img width="916" height="230" alt="image" src="https://github.com/user-attachments/assets/2d6072b1-31e2-4e23-88b3-3b9b2b05bc28" />
 
-<img width="159" height="52" alt="image" src="https://github.com/user-attachments/assets/7dba7e90-141d-43f4-9305-57481702188b" />
 
 
 ## 5.回归
