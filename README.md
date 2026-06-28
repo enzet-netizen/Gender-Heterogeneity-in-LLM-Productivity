@@ -159,6 +159,12 @@ male      114296，
 
 <img width="994" height="530" alt="image" src="https://github.com/user-attachments/assets/3f7a64a2-0cf3-4114-92bd-12f6a2de32a5" />
 
+<img width="991" height="620" alt="image" src="https://github.com/user-attachments/assets/6ab844e8-0e3a-4311-a62d-a1eeca25c21c" />
+
+<img width="997" height="629" alt="image" src="https://github.com/user-attachments/assets/65c89d06-5421-4fe9-a0fa-f992171efe41" />
+
+
+
 
 
 
