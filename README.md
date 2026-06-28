@@ -88,6 +88,11 @@ count：
 
 <img width="522" height="93" alt="image" src="https://github.com/user-attachments/assets/629887af-b49b-4210-ba72-5030bdc78305" />
 
+接回panel：
+接回panel后作者数（按性别）:
+gender_final
+female     24272
+male      114296
 
 ---
 
