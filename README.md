@@ -9,6 +9,11 @@ Scientific production in the era of large language models.
 Last updated: June 2026
 <img width="813" height="82" alt="image" src="https://github.com/user-attachments/assets/3273521b-62f5-49d9-bae4-821e0c5111c2" />
 
+
+<img width="368" height="37" alt="image" src="https://github.com/user-attachments/assets/b46e0996-c2ef-4858-9991-95a633876378" />
+
+<img width="426" height="50" alt="image" src="https://github.com/user-attachments/assets/09d891ff-0640-4009-a7ab-a11f7570a711" />
+
 ---
 
 ## 1.姓名消歧去重
