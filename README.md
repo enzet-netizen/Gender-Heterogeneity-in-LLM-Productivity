@@ -116,13 +116,17 @@ male      114296，
 #### 运行文件：panel_gender.py
 #### output文件：panel_gender.csv
 
-代码里面，只取两列，hashed_authro和gender，把性别接到panel上，panel添加gender_final列，去掉unknown的人，然后根据公式造post变量
+<img width="446" height="33" alt="image" src="https://github.com/user-attachments/assets/4875878d-8a3a-4fae-ae9b-741076e4991c" />
 
-<img width="135" height="43" alt="image" src="https://github.com/user-attachments/assets/04699e94-82f4-48a4-95b6-c80117d77973" />。
 
-按行计：
+<img width="229" height="61" alt="image" src="https://github.com/user-attachments/assets/46d74b9e-be8d-4acb-bd1e-de5c1da54cdf" />
 
-<img width="130" height="40" alt="image" src="https://github.com/user-attachments/assets/77129b9e-8390-4ac2-97b0-dc3c4d70806d" />
+<img width="161" height="38" alt="image" src="https://github.com/user-attachments/assets/7353a7db-cfef-47c5-b776-381de727a0f9" />
+
+
+<img width="490" height="36" alt="image" src="https://github.com/user-attachments/assets/d33d44ca-f21d-4d3b-96c5-794db8472205" />
+
+
 
 
 
