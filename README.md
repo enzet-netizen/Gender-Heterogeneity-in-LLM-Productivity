@@ -189,3 +189,9 @@ Overall 39.3%，Male 38.6%，置信区间36.3%-40.9%，Female 42.8%，置信区�
 
 <img width="990" height="623" alt="image" src="https://github.com/user-attachments/assets/2da25fcd-0282-4ba1-bcde-fe89db745fad" />
 
+
+<img width="1001" height="505" alt="image" src="https://github.com/user-attachments/assets/68f0ac27-6009-40c4-b494-6e792c8c5633" />
+
+<img width="995" height="531" alt="image" src="https://github.com/user-attachments/assets/b3e8337d-b111-4e69-b036-56d8d1bc52e2" />
+
+
