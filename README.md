@@ -185,3 +185,7 @@ Overall 39.3%，Male 38.6%，置信区间36.3%-40.9%，Female 42.8%，置信区�
 ## Additional
 用python进行代码实现
 
+<img width="1474" height="874" alt="image" src="https://github.com/user-attachments/assets/cacc0b62-b2b7-449c-83e7-d898ca478f59" />
+
+<img width="990" height="623" alt="image" src="https://github.com/user-attachments/assets/2da25fcd-0282-4ba1-bcde-fe89db745fad" />
+
