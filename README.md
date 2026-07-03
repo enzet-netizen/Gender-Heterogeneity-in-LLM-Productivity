@@ -154,6 +154,8 @@ male      114296，
 
 进回归的数据：male:78713, female:16843
 
+用python进行回归
+
 
 
 
@@ -180,4 +182,6 @@ Overall 39.3%，Male 38.6%，置信区间36.3%-40.9%，Female 42.8%，置信区�
 <img width="495" height="501" alt="image" src="https://github.com/user-attachments/assets/b65cd48e-f231-4aba-8760-1a6111e05384" />
 
 
+## Additional
+用python进行代码实现
 
